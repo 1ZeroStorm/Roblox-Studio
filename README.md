@@ -32,4 +32,5 @@ Developed by **1ZeroStorm** on github (IZeroStorm on Roblox) with a mission to i
 Play now on Roblox: [Upon The Earth](https://www.roblox.com/games/16667638116/Upon-The-Earth)
 
 **check out wiki for further game mechanics informations**
+
 Help save the floating island, one building at a time! 🌍⚡🔥
