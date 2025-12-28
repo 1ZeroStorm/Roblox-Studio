@@ -1,9 +1,10 @@
-# 🌍 Upon The Earth!
+# 🌍 Upon The Earth! - (🏆 Bronze Award–Nominated Game at ICIA 2022!)
 <img width="1562" height="728" alt="image" src="https://github.com/user-attachments/assets/7dad173e-2bf8-452d-80f5-5e51d3bb5c2c" />
+<img width="7016" height="9934" alt="Final Poster_UPON THE EARTH-01" src="https://github.com/user-attachments/assets/ba6fd1d9-6c65-4f0b-b232-144fc60d032f" />
 
 
 ## 🎮 Game Overview
-**Upon The Earth** is a climate-action simulation game where your mission is to **save the floating island** while earning rewards!  
+**Upon The Earth** is a climate-action simulation roblox game where your mission is to **save the floating island** while earning rewards!  
 Players must balance environmental challenges with smart strategies to keep air temperatures stable and renewable energy buildings thriving.
 
 ---
