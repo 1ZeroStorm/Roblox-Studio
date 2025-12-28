@@ -1,4 +1,6 @@
 # 🌍 Upon The Earth!
+<img width="1562" height="728" alt="image" src="https://github.com/user-attachments/assets/7dad173e-2bf8-452d-80f5-5e51d3bb5c2c" />
+
 
 ## 🎮 Game Overview
 **Upon The Earth** is a climate-action simulation game where your mission is to **save the floating island** while earning rewards!  
